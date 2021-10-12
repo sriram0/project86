@@ -1,0 +1,18 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+    background-clip:padding-box;
+    background-repeat: no-repeat;
+    margin-top: 20px;
+}
+#c
+{
+   border: 3px ridge yellow;
+   margin-bottom: 80px;
+}
+button{
+    margin-top: 40px;
+}
+
